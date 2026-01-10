@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large / sensitive
+*.zip
+*.log
+
+# Ignore system folders accidentally picked up
+AppData/
+Application Data/
+Documents/
+Downloads/
+Pictures/
+Videos/
+    
